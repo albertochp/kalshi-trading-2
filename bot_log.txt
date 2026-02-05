@@ -1,0 +1,255 @@
+2026-01-24 11:47:52,569 [INFO] TBot: BOOTSTRAP starting. league=italy-serie-a series=KXSERIEAGAME
+2026-01-24 11:47:53,051 [WARNING] TBot: No live events found; trying upcoming.
+2026-01-24 11:47:53,349 [ERROR] TBot: Fatal error: No events returned from Odds-API. Check SPORT_KEY/LEAGUE_KEY and your API key.
+Traceback (most recent call last):
+  File "/Users/albertochiapparoli/refactored_kalshi_bot/main.py", line 106, in async_main
+    mapping = await bootstrap_mapping(logger)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/albertochiapparoli/refactored_kalshi_bot/main.py", line 52, in bootstrap_mapping
+    raise RuntimeError("No events returned from Odds-API. Check SPORT_KEY/LEAGUE_KEY and your API key.")
+RuntimeError: No events returned from Odds-API. Check SPORT_KEY/LEAGUE_KEY and your API key.
+2026-01-24 11:55:32,826 [INFO] TBot: BOOTSTRAP starting. league=italy-serie-a series=KXSERIEAGAME
+2026-01-24 11:55:33,181 [WARNING] TBot: No live events found; trying upcoming.
+2026-01-24 11:55:35,439 [ERROR] TBot: Fatal error: No events returned from Odds-API. Check SPORT_KEY/LEAGUE_KEY and your API key.
+Traceback (most recent call last):
+  File "/Users/albertochiapparoli/refactored_kalshi_bot/main.py", line 106, in async_main
+    mapping = await bootstrap_mapping(logger)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/albertochiapparoli/refactored_kalshi_bot/main.py", line 52, in bootstrap_mapping
+    raise RuntimeError("No events returned from Odds-API. Check SPORT_KEY/LEAGUE_KEY and your API key.")
+RuntimeError: No events returned from Odds-API. Check SPORT_KEY/LEAGUE_KEY and your API key.
+2026-01-24 12:00:50,795 [INFO] TBot: Mode: DRY_RUN=True DEBUG=True
+2026-01-24 12:00:50,795 [INFO] TBot: BOOTSTRAP starting. league=italy-serie-a series=KXSERIEAGAME
+2026-01-24 12:00:51,249 [WARNING] TBot: No live events found; trying pending.
+2026-01-24 12:00:51,607 [ERROR] TBot: BOOTSTRAP failed: build_event_market_mapping() got an unexpected keyword argument 'events'
+2026-01-24 12:00:51,610 [WARNING] TBot: Retrying bootstrap in 300 seconds.
+2026-01-24 12:05:51,625 [INFO] TBot: BOOTSTRAP starting. league=italy-serie-a series=KXSERIEAGAME
+2026-01-24 12:05:52,064 [ERROR] TBot: BOOTSTRAP failed: build_event_market_mapping() got an unexpected keyword argument 'events'
+2026-01-24 12:05:52,069 [WARNING] TBot: Retrying bootstrap in 300 seconds.
+2026-01-24 12:09:51,635 [INFO] TBot: Mode: DRY_RUN=True DEBUG=True
+2026-01-24 12:09:51,635 [INFO] TBot: BOOTSTRAP starting. league=italy-serie-a series=KXSERIEAGAME
+2026-01-24 12:09:52,474 [ERROR] TBot: BOOTSTRAP failed: Kalshi HTTP 400: {"error":{"code":"bad_request","message":"bad request"}}
+2026-01-24 12:09:52,477 [WARNING] TBot: Retrying bootstrap in 300 seconds.
+2026-01-24 12:11:53,559 [INFO] TBot: Mode: DRY_RUN=True DEBUG=True
+2026-01-24 12:11:53,559 [INFO] TBot: BOOTSTRAP starting. league=italy-serie-a series=KXSERIEAGAME
+2026-01-24 12:11:55,128 [WARNING] TBot: Kalshi metadata request failed for path=/trade-api/v2/events params={'series_ticker': 'KXSERIEAGAME', 'limit': 500} error=Kalshi HTTP 400: {"error":{"code":"bad_request","message":"bad request"}}
+2026-01-24 12:11:55,171 [WARNING] TBot: Kalshi metadata request failed for path=/trade-api/v2/series/KXSERIEAGAME/events params={'limit': 500} error=Kalshi HTTP 404: 404 page not found
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXELONMARS-99: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXNEWPOPE-70: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXWARMING-50: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXMARSVRAIL-50: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXERUPTSUPER-0: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXCOLONIZEMARS-50: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXPERSONPRESMAM-45: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXXISUCCESSOR-45JAN01: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXPERSONPRESFUENTES-45: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXNEXTISRAELPM-45JAN01: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXNEXTIRANLEADER-45JAN01: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXG7LEADEROUT-45JAN01: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXRAMPBREX-40: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXOAIANTH-40: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXKLARSTRIP-40: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXFUSION: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXDEELRIP-40: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXG7LEADEROUT-36: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,237 [WARNING] TBot: Failed to fetch details for KXRAMBO-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXPOPCHANGESTATE10-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXEARTHQUAKECALIFORNIA-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXROBOTMARS-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXPERFORMBONDSONG-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXPERFORMBOND-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXNEXTPOPE-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXNEWPOPE-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXLALEADEROUT-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXJOHNNYDEPP-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXG7LEADEROUT-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXEULEADEROUT-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXBRUVSEAT-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXASIALEADEROUT-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXAFRICALEADEROUT-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXACTORSONNYCROCKETT-35: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for JOBLESS-21AUG28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXFDATYPE1DIABETES-33: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for EUCLIMATE: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for INDIACLIMATE-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXNEXTSPEAKER-31: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXMOONMAN-31: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for USCLIMATE: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXTVSEASONRELEASETHELASTOFUS: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXPRIMEENGCONSUMPTION-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXACTORTOMCRUZ-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for AITURING: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXINDIANAPOWELL-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXCANADACUP-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXNYKCOACH-25: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXTIMEDECADE20S-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for EVSHARE-30JAN: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXU3MAX-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXPERFORMROLEBRITNEY: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXPERFORMROLE007-VILLAIN: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXPERFORMROLE007-Q: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXPERFORMROLE007-MONEYPENNY: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXPERFORMROLE007-M: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXPERFORMROLE007-FELIX: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for NONCOMPETEBAN: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXYTUBESUBSISHOWSPEED: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXUSTAKEOVER-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXUHCCONVICT-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXTVSEASONRELEASEACOURTOFTHORNSANDROSES: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXTRILLIONAIRE-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXTRAVISKELCEWEDDING-30JAN01: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXTAYLORSWIFTWEDDING-30JAN01: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXTAIWANLVL4: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXSWIFTKELCEWEDDINGLOCATION-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,238 [WARNING] TBot: Failed to fetch details for KXSPORTSOWNERLBJ-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXSPACEXMARS-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXSONICS-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXSHOWENDSIMPSONS-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXSHOWENDFAMILYGUY-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXROMANIATOP-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXPOLIOELIM-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXNEXTUKPM-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXNEWROLEVOGUE-30JAN: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXNBATEAM-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXNBASEATTLE-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXMUSKTRILLION: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXMEDIARELEASEPRISONBREAK-30JAN01: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXLIVENATIONUS-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXJPMCEONEW: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXIPOAIRTABLE: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXHALFTRIL: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXGTAPRICE: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXGTA6SONGS-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXGERCOALITION-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXFYREFESTPRICE-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXEUREF-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXEUEXITCOUNTRY-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXECCOMPACT-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXEARTHQUAKEJAPAN-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXDATACENTER-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXCO2LEVEL-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXCASECESSION-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXCANCOALITION-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXBUSHBY-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXBOND-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXBLUESPACEX-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXARTISTCOLLABTHUGANDGUNNA-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXARTISTCOLLABDRAKEKENDRICK-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for EUEXPANSION: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for EUEXIT: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for CHINAUSGDP: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for BEYONCEGENRE-30: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for AMAZONFTC-29DEC31: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for BTCETHATH-29DEC31: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for APPLEUS: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for STARSHIPMARS: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXALBERTAREFYES-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXUKPARTY-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXBALANCE-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXGDPSHAREMANU-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXFULLTERMSKPRES-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXGOVTCUTS-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXDEBTGROWTH-28DEC31: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXTDEFICITHALF-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,239 [WARNING] TBot: Failed to fetch details for KXDEBTSHRINK-28NOV11: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXEOTRUMPTERM-29JAN20: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for POWER-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXGDPUSMAX-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXGREENLANDPRICE-29JAN21: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXAMEND22-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXUSAEXPANDTERRITORY: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXTRUMPRESIGN: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXTRUMPPARDONS-29JAN21: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXSCOURT-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXPRESPERSON-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXPRESPARTY-2028: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXMTRUSHMORE-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXGREENTERRITORY-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXCANTERRITORY-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for GOVPARTYDE-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXZELENSKYPUTIN-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXWITHDRAW-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXVETOOVERRIDE-29JAN20: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXUSAKIM-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXTRUMPSTATECOUNT-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXTRUMPSNL-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXTRUMPREMOVE: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXTRUMPPARDONFAMILY-29JAN20: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXTRUMPAGCOUNT-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXTERMLIMITS-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXTAFTHARTLEY-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXSTATE51-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXSTATE-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXSCOTUSRESIGN-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXSCOTUSPOWER-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXSCOTUSCHANGE-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXSCOTUSCERT3RD-29JAN: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXRECOGSOMALI-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXRECOGROC-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXPENNYCONGRESS-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXNEXTSTATE-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXNEXTDHSSEC-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXNEXTDEF-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXNEWSCOTUSCONF-29JAN20: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXNEWCITY-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXMTMCK-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXMARTIAL-29JAN20: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXJAN6CASES: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXINSURRECTION-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXINDJUDICIARY-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXIMPEACHCABINET: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXIMPEACH-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXHABEAS-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXH1B-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXGREENLAND-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,240 [WARNING] TBot: Failed to fetch details for KXFTAPRC-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXFTA-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXFREEIVF-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXFEDEND-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXFEDCHAIRNOM-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXEVCREDITS-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXDOED-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXDJTWHDINNER-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXCONSTAMEND-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXCAPCONTROL-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXCANAL-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXCABOUT-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXAMEND25-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXAGENCYELIM-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXACAREPEAL-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXABRAHAMSY-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXABRAHAMSA-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for KXABRAHAMQ-29: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for GOVPARTYMS-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for GOVPARTYWV-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for GOVPARTYMO-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for GOVPARTYIN-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for GOVPARTYNH-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for GOVPARTYLA-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for SENATEIN-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for GOVPARTYVT-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for SENATEWI-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for SENATEWA-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for SENATEVT-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for SENATEUT-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for SENATESD-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [WARNING] TBot: Failed to fetch details for SENATESC-28: 'KalshiClient' object has no attribute 'get_event_details'
+2026-01-24 12:11:55,241 [INFO] TBot: Fetched 0 detailed Kalshi events for series=KXSERIEAGAME
+2026-01-24 12:11:55,241 [WARNING] TBot: Kalshi returned no detailed events for series; mapping may be incomplete.
+2026-01-24 12:11:55,241 [ERROR] TBot: BOOTSTRAP failed: build_event_market_mapping produced no mapped markets. Check SERIES_TICKER or matching heuristics.
+2026-01-24 12:11:55,243 [WARNING] TBot: Retrying bootstrap in 300 seconds.
+2026-01-24 12:13:38,351 [INFO] TBot: Mode: DRY_RUN=True DEBUG=True
+2026-01-24 12:13:38,351 [INFO] TBot: BOOTSTRAP starting. league=italy-serie-a series=KXSERIEAGAME
+2026-01-24 12:13:38,901 [WARNING] TBot: Kalshi metadata request failed for path=/trade-api/v2/events params={'series_ticker': 'KXSERIEAGAME', 'limit': 500} error=Kalshi HTTP 400: {"error":{"code":"bad_request","message":"bad request"}}
+2026-01-24 12:13:38,946 [WARNING] TBot: Kalshi metadata request failed for path=/trade-api/v2/series/KXSERIEAGAME/events params={'limit': 500} error=Kalshi HTTP 404: 404 page not found
+2026-01-24 12:13:41,768 [INFO] TBot: Fetched 200 detailed Kalshi events (summary fallback) for series=KXSERIEAGAME
+2026-01-24 12:13:41,773 [ERROR] TBot: BOOTSTRAP failed: build_event_market_mapping produced no mapped markets. Check SERIES_TICKER or matching heuristics.
+2026-01-24 12:13:41,775 [WARNING] TBot: Retrying bootstrap in 300 seconds.
+2026-01-24 12:16:55,457 [INFO] TBot: Mode: DRY_RUN=True DEBUG=True
+2026-01-24 12:16:55,457 [INFO] TBot: BOOTSTRAP starting. league=italy-serie-a series=KXSERIEAGAME
+2026-01-24 12:16:55,897 [WARNING] TBot: Kalshi metadata request failed for path=/trade-api/v2/events params={'series_ticker': 'KXSERIEAGAME', 'limit': 500} error=Kalshi HTTP 400: {"error":{"code":"bad_request","message":"bad request"}}
+2026-01-24 12:16:55,935 [WARNING] TBot: Kalshi metadata request failed for path=/trade-api/v2/series/KXSERIEAGAME/events params={'limit': 500} error=Kalshi HTTP 404: 404 page not found
+2026-01-24 12:16:58,683 [INFO] TBot: Fetched 200 detailed Kalshi events (summary fallback) for series=KXSERIEAGAME
+2026-01-24 12:16:58,689 [INFO] TBot: MATCH DEBUG odds_id=61061369 home=ACF Fiorentina away=Cagliari Calcio best_score=0.000 best_title=
+2026-01-24 12:16:58,689 [ERROR] TBot: BOOTSTRAP failed: build_event_market_mapping produced no mapped markets. Check SERIES_TICKER or matching heuristics.
+2026-01-24 12:16:58,691 [WARNING] TBot: Retrying bootstrap in 300 seconds.

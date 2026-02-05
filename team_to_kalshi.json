@@ -1,0 +1,2920 @@
+{
+  "will elon musk visit mars in his": {
+    "team_norm": "will elon musk visit mars in his",
+    "tickers": [
+      "KXELONMARS-99"
+    ],
+    "examples": [
+      "Will Elon Musk visit Mars in his lifetime?"
+    ]
+  },
+  "lifetime": {
+    "team_norm": "lifetime",
+    "tickers": [
+      "KXELONMARS-99"
+    ],
+    "examples": [
+      "Will Elon Musk visit Mars in his lifetime?"
+    ]
+  },
+  "who will the next pope": {
+    "team_norm": "who will the next pope",
+    "tickers": [
+      "KXNEWPOPE-35",
+      "KXNEWPOPE-70",
+      "KXNEXTPOPE-35"
+    ],
+    "examples": [
+      "Who will the next Pope be?"
+    ]
+  },
+  "be": {
+    "team_norm": "be",
+    "tickers": [
+      "BEYONCEGENRE-30",
+      "KXNEWPOPE-35",
+      "KXNEWPOPE-70",
+      "KXNEXTPOPE-35"
+    ],
+    "examples": [
+      "What genre will Beyonce’s next album be?",
+      "Who will the next Pope be?"
+    ]
+  },
+  "will the world pass 2 degrees celsius over preindustrial levels before": {
+    "team_norm": "will the world pass 2 degrees celsius over preindustrial levels before",
+    "tickers": [
+      "KXWARMING-50"
+    ],
+    "examples": [
+      "Will the world pass 2 degrees Celsius over pre-industrial levels before 2050?"
+    ]
+  },
+  "2050": {
+    "team_norm": "2050",
+    "tickers": [
+      "KXCOLONIZEMARS-50",
+      "KXERUPTSUPER-0",
+      "KXWARMING-50"
+    ],
+    "examples": [
+      "Will a supervolcano erupt before 2050?",
+      "Will humans colonize Mars before 2050?",
+      "Will the world pass 2 degrees Celsius over pre-industrial levels before 2050?"
+    ]
+  },
+  "will a human land on mars before california starts highspeed": {
+    "team_norm": "will a human land on mars before california starts highspeed",
+    "tickers": [
+      "KXMARSVRAIL-50"
+    ],
+    "examples": [
+      "Will a human land on Mars before California starts high-speed rail?"
+    ]
+  },
+  "rail": {
+    "team_norm": "rail",
+    "tickers": [
+      "KXMARSVRAIL-50"
+    ],
+    "examples": [
+      "Will a human land on Mars before California starts high-speed rail?"
+    ]
+  },
+  "will a supervolcano erupt before": {
+    "team_norm": "will a supervolcano erupt before",
+    "tickers": [
+      "KXERUPTSUPER-0"
+    ],
+    "examples": [
+      "Will a supervolcano erupt before 2050?"
+    ]
+  },
+  "will humans colonize mars before": {
+    "team_norm": "will humans colonize mars before",
+    "tickers": [
+      "KXCOLONIZEMARS-50"
+    ],
+    "examples": [
+      "Will humans colonize Mars before 2050?"
+    ]
+  },
+  "will zohran mamdani become president of the united states before": {
+    "team_norm": "will zohran mamdani become president of the united states before",
+    "tickers": [
+      "KXPERSONPRESMAM-45"
+    ],
+    "examples": [
+      "Will Zohran Mamdani become President of the United States before 2045?"
+    ]
+  },
+  "2045": {
+    "team_norm": "2045",
+    "tickers": [
+      "KXPERSONPRESFUENTES-45",
+      "KXPERSONPRESMAM-45"
+    ],
+    "examples": [
+      "Will Nick Fuentes become President of the United States before 2045?",
+      "Will Zohran Mamdani become President of the United States before 2045?"
+    ]
+  },
+  "who will be named xi jinpings": {
+    "team_norm": "who will be named xi jinpings",
+    "tickers": [
+      "KXXISUCCESSOR-45JAN01"
+    ],
+    "examples": [
+      "Who will be named as Xi Jinping's successor?"
+    ]
+  },
+  "successor": {
+    "team_norm": "successor",
+    "tickers": [
+      "KXXISUCCESSOR-45JAN01"
+    ],
+    "examples": [
+      "Who will be named as Xi Jinping's successor?"
+    ]
+  },
+  "will nick fuentes become president of the united states before": {
+    "team_norm": "will nick fuentes become president of the united states before",
+    "tickers": [
+      "KXPERSONPRESFUENTES-45"
+    ],
+    "examples": [
+      "Will Nick Fuentes become President of the United States before 2045?"
+    ]
+  },
+  "who will be the next new prime minister of": {
+    "team_norm": "who will be the next new prime minister of",
+    "tickers": [
+      "KXNEXTISRAELPM-45JAN01"
+    ],
+    "examples": [
+      "Who will be the next new Prime Minister of Israel?"
+    ]
+  },
+  "israel": {
+    "team_norm": "israel",
+    "tickers": [
+      "KXNEXTISRAELPM-45JAN01"
+    ],
+    "examples": [
+      "Who will be the next new Prime Minister of Israel?"
+    ]
+  },
+  "who will be the next supreme leader of": {
+    "team_norm": "who will be the next supreme leader of",
+    "tickers": [
+      "KXNEXTIRANLEADER-45JAN01"
+    ],
+    "examples": [
+      "Who will be the next Supreme Leader of Iran?"
+    ]
+  },
+  "iran": {
+    "team_norm": "iran",
+    "tickers": [
+      "KXNEXTIRANLEADER-45JAN01"
+    ],
+    "examples": [
+      "Who will be the next Supreme Leader of Iran?"
+    ]
+  },
+  "which g7 leader will leave": {
+    "team_norm": "which g7 leader will leave",
+    "tickers": [
+      "KXG7LEADEROUT-45JAN01"
+    ],
+    "examples": [
+      "Which G7 leader will leave next?"
+    ]
+  },
+  "next": {
+    "team_norm": "next",
+    "tickers": [
+      "KXAFRICALEADEROUT-35",
+      "KXASIALEADEROUT-35",
+      "KXEULEADEROUT-35",
+      "KXG7LEADEROUT-35",
+      "KXG7LEADEROUT-36",
+      "KXG7LEADEROUT-45JAN01",
+      "KXLALEADEROUT-35"
+    ],
+    "examples": [
+      "Which G7 leader will leave next?",
+      "Which of the G7 leaders will leave office next?",
+      "Which of these African leaders will leave office next?",
+      "Which of these Asia-Pacific leaders will leave office next?",
+      "Which of these European leaders will leave office next?",
+      "Which of these G7 leaders will leave office next?",
+      "Which of these Latin America leaders will leave office next?"
+    ]
+  },
+  "will ramp or brex ipo": {
+    "team_norm": "will ramp or brex ipo",
+    "tickers": [
+      "KXRAMPBREX-40"
+    ],
+    "examples": [
+      "Will Ramp or Brex IPO first?"
+    ]
+  },
+  "first": {
+    "team_norm": "first",
+    "tickers": [
+      "KXDEELRIP-40",
+      "KXKLARSTRIP-40",
+      "KXOAIANTH-40",
+      "KXRAMPBREX-40"
+    ],
+    "examples": [
+      "Will Deel or Rippling IPO first?",
+      "Will Klarna or Stripe IPO first?",
+      "Will OpenAI or Anthropic IPO first?",
+      "Will Ramp or Brex IPO first?"
+    ]
+  },
+  "will openai or anthropic ipo": {
+    "team_norm": "will openai or anthropic ipo",
+    "tickers": [
+      "KXOAIANTH-40"
+    ],
+    "examples": [
+      "Will OpenAI or Anthropic IPO first?"
+    ]
+  },
+  "will klarna or stripe ipo": {
+    "team_norm": "will klarna or stripe ipo",
+    "tickers": [
+      "KXKLARSTRIP-40"
+    ],
+    "examples": [
+      "Will Klarna or Stripe IPO first?"
+    ]
+  },
+  "when will nuclear fusion be": {
+    "team_norm": "when will nuclear fusion be",
+    "tickers": [
+      "KXFUSION"
+    ],
+    "examples": [
+      "When will nuclear fusion be achieved?"
+    ]
+  },
+  "achieved": {
+    "team_norm": "achieved",
+    "tickers": [
+      "KXFUSION"
+    ],
+    "examples": [
+      "When will nuclear fusion be achieved?"
+    ]
+  },
+  "will deel or rippling ipo": {
+    "team_norm": "will deel or rippling ipo",
+    "tickers": [
+      "KXDEELRIP-40"
+    ],
+    "examples": [
+      "Will Deel or Rippling IPO first?"
+    ]
+  },
+  "which of the g7 leaders will leave office": {
+    "team_norm": "which of the g7 leaders will leave office",
+    "tickers": [
+      "KXG7LEADEROUT-36"
+    ],
+    "examples": [
+      "Which of the G7 leaders will leave office next?"
+    ]
+  },
+  "who will be cast the next john": {
+    "team_norm": "who will be cast the next john",
+    "tickers": [
+      "KXRAMBO-35"
+    ],
+    "examples": [
+      "Who Will Be Cast as the Next John Rambo?"
+    ]
+  },
+  "rambo": {
+    "team_norm": "rambo",
+    "tickers": [
+      "KXRAMBO-35"
+    ],
+    "examples": [
+      "Who Will Be Cast as the Next John Rambo?"
+    ]
+  },
+  "will any us state experience a population decrease of at least 10 between 2025 and": {
+    "team_norm": "will any us state experience a population decrease of at least 10 between 2025 and",
+    "tickers": [
+      "KXPOPCHANGESTATE10-35"
+    ],
+    "examples": [
+      "Will any U.S. state experience a population decrease of at least 10% between 2025 and 2035?"
+    ]
+  },
+  "2035": {
+    "team_norm": "2035",
+    "tickers": [
+      "KXEARTHQUAKECALIFORNIA-35",
+      "KXPOPCHANGESTATE10-35"
+    ],
+    "examples": [
+      "Will any U.S. state experience a population decrease of at least 10% between 2025 and 2035?",
+      "Will there be an at least 8.0 magnitude earthquake in California before 2035?"
+    ]
+  },
+  "will there be an at least 80 magnitude earthquake in california before": {
+    "team_norm": "will there be an at least 80 magnitude earthquake in california before",
+    "tickers": [
+      "KXEARTHQUAKECALIFORNIA-35"
+    ],
+    "examples": [
+      "Will there be an at least 8.0 magnitude earthquake in California before 2035?"
+    ]
+  },
+  "will a humanoid robot walk on mars before a human": {
+    "team_norm": "will a humanoid robot walk on mars before a human",
+    "tickers": [
+      "KXROBOTMARS-35"
+    ],
+    "examples": [
+      "Will a humanoid robot walk on Mars before a human does?"
+    ]
+  },
+  "does": {
+    "team_norm": "does",
+    "tickers": [
+      "KXROBOTMARS-35"
+    ],
+    "examples": [
+      "Will a humanoid robot walk on Mars before a human does?"
+    ]
+  },
+  "who will perform the next james bond": {
+    "team_norm": "who will perform the next james bond",
+    "tickers": [
+      "KXPERFORMBOND-35",
+      "KXPERFORMBONDSONG-35"
+    ],
+    "examples": [
+      "Who will perform the next James Bond theme?"
+    ]
+  },
+  "theme": {
+    "team_norm": "theme",
+    "tickers": [
+      "KXPERFORMBOND-35",
+      "KXPERFORMBONDSONG-35"
+    ],
+    "examples": [
+      "Who will perform the next James Bond theme?"
+    ]
+  },
+  "which of these latin america leaders will leave office": {
+    "team_norm": "which of these latin america leaders will leave office",
+    "tickers": [
+      "KXLALEADEROUT-35"
+    ],
+    "examples": [
+      "Which of these Latin America leaders will leave office next?"
+    ]
+  },
+  "will johnny depp be cast in the next pirates of the": {
+    "team_norm": "will johnny depp be cast in the next pirates of the",
+    "tickers": [
+      "KXJOHNNYDEPP-35"
+    ],
+    "examples": [
+      "Will Johnny Depp be cast in the next Pirates of the Caribbean?"
+    ]
+  },
+  "caribbean": {
+    "team_norm": "caribbean",
+    "tickers": [
+      "KXJOHNNYDEPP-35"
+    ],
+    "examples": [
+      "Will Johnny Depp be cast in the next Pirates of the Caribbean?"
+    ]
+  },
+  "which of these g7 leaders will leave office": {
+    "team_norm": "which of these g7 leaders will leave office",
+    "tickers": [
+      "KXG7LEADEROUT-35"
+    ],
+    "examples": [
+      "Which of these G7 leaders will leave office next?"
+    ]
+  },
+  "which of these european leaders will leave office": {
+    "team_norm": "which of these european leaders will leave office",
+    "tickers": [
+      "KXEULEADEROUT-35"
+    ],
+    "examples": [
+      "Which of these European leaders will leave office next?"
+    ]
+  },
+  "will andrew tates party win a seat in the next uk": {
+    "team_norm": "will andrew tates party win a seat in the next uk",
+    "tickers": [
+      "KXBRUVSEAT-35"
+    ],
+    "examples": [
+      "Will Andrew Tate's party win a seat in the next UK election?"
+    ]
+  },
+  "election": {
+    "team_norm": "election",
+    "tickers": [
+      "KXALBERTAREFYES-29",
+      "KXBRUVSEAT-35",
+      "KXPRESPARTY-2028",
+      "KXUKPARTY-29"
+    ],
+    "examples": [
+      "Which party will win the 2028 Presidential Election?",
+      "Which party will win the next UK general election?",
+      "Will Alberta vote to secede from Canada before the next general election?",
+      "Will Andrew Tate's party win a seat in the next UK election?"
+    ]
+  },
+  "which of these asiapacific leaders will leave office": {
+    "team_norm": "which of these asiapacific leaders will leave office",
+    "tickers": [
+      "KXASIALEADEROUT-35"
+    ],
+    "examples": [
+      "Which of these Asia-Pacific leaders will leave office next?"
+    ]
+  },
+  "which of these african leaders will leave office": {
+    "team_norm": "which of these african leaders will leave office",
+    "tickers": [
+      "KXAFRICALEADEROUT-35"
+    ],
+    "examples": [
+      "Which of these African leaders will leave office next?"
+    ]
+  },
+  "who will be cast in the next miami": {
+    "team_norm": "who will be cast in the next miami",
+    "tickers": [
+      "KXACTORSONNYCROCKETT-35"
+    ],
+    "examples": [
+      "Who will be cast in the next Miami Vice?"
+    ]
+  },
+  "vice": {
+    "team_norm": "vice",
+    "tickers": [
+      "KXACTORSONNYCROCKETT-35"
+    ],
+    "examples": [
+      "Who will be cast in the next Miami Vice?"
+    ]
+  },
+  "initial jobless claims from aug 2228": {
+    "team_norm": "initial jobless claims from aug 2228",
+    "tickers": [
+      "JOBLESS-21AUG28"
+    ],
+    "examples": [
+      "Initial jobless claims from Aug 22-28, 2021?"
+    ]
+  },
+  "2021": {
+    "team_norm": "2021",
+    "tickers": [
+      "JOBLESS-21AUG28"
+    ],
+    "examples": [
+      "Initial jobless claims from Aug 22-28, 2021?"
+    ]
+  },
+  "will the fda approve a cure for type 1 diabetes before": {
+    "team_norm": "will the fda approve a cure for type 1 diabetes before",
+    "tickers": [
+      "KXFDATYPE1DIABETES-33"
+    ],
+    "examples": [
+      "Will the FDA approve a cure for Type 1 diabetes before 2033?"
+    ]
+  },
+  "2033": {
+    "team_norm": "2033",
+    "tickers": [
+      "KXFDATYPE1DIABETES-33"
+    ],
+    "examples": [
+      "Will the FDA approve a cure for Type 1 diabetes before 2033?"
+    ]
+  },
+  "eu meets its 2030 climate": {
+    "team_norm": "eu meets its 2030 climate",
+    "tickers": [
+      "EUCLIMATE"
+    ],
+    "examples": [
+      "EU meets its 2030 climate goals?"
+    ]
+  },
+  "goals": {
+    "team_norm": "goals",
+    "tickers": [
+      "EUCLIMATE",
+      "INDIACLIMATE-30",
+      "USCLIMATE"
+    ],
+    "examples": [
+      "EU meets its 2030 climate goals?",
+      "India meets its 2030 climate goals?",
+      "US meets its climate goals?"
+    ]
+  },
+  "india meets its 2030 climate": {
+    "team_norm": "india meets its 2030 climate",
+    "tickers": [
+      "INDIACLIMATE-30"
+    ],
+    "examples": [
+      "India meets its 2030 climate goals?"
+    ]
+  },
+  "who will be the next speaker of the": {
+    "team_norm": "who will be the next speaker of the",
+    "tickers": [
+      "KXNEXTSPEAKER-31"
+    ],
+    "examples": [
+      "Who will be the next Speaker of the House?"
+    ]
+  },
+  "house": {
+    "team_norm": "house",
+    "tickers": [
+      "KXNEXTSPEAKER-31"
+    ],
+    "examples": [
+      "Who will be the next Speaker of the House?"
+    ]
+  },
+  "which country will be the next to send humans to the": {
+    "team_norm": "which country will be the next to send humans to the",
+    "tickers": [
+      "KXMOONMAN-31"
+    ],
+    "examples": [
+      "Which country will be the next to send humans to the Moon?"
+    ]
+  },
+  "moon": {
+    "team_norm": "moon",
+    "tickers": [
+      "KXMOONMAN-31"
+    ],
+    "examples": [
+      "Which country will be the next to send humans to the Moon?"
+    ]
+  },
+  "meets its climate": {
+    "team_norm": "meets its climate",
+    "tickers": [
+      "USCLIMATE"
+    ],
+    "examples": [
+      "US meets its climate goals?"
+    ]
+  },
+  "when will the last of season 3 be": {
+    "team_norm": "when will the last of season 3 be",
+    "tickers": [
+      "KXTVSEASONRELEASETHELASTOFUS"
+    ],
+    "examples": [
+      "When will \"The Last of Us\" Season 3 be released?"
+    ]
+  },
+  "released": {
+    "team_norm": "released",
+    "tickers": [
+      "KXTVSEASONRELEASEACOURTOFTHORNSANDROSES",
+      "KXTVSEASONRELEASETHELASTOFUS"
+    ],
+    "examples": [
+      "When will \"The Last of Us\" Season 3 be released?",
+      "Will A Court Of Thorns and Roses be released?"
+    ]
+  },
+  "what will be the largest source of global primary energy consumption in": {
+    "team_norm": "what will be the largest source of global primary energy consumption in",
+    "tickers": [
+      "KXPRIMEENGCONSUMPTION-30"
+    ],
+    "examples": [
+      "What will be the largest source of global primary energy consumption in 2030?"
+    ]
+  },
+  "2030": {
+    "team_norm": "2030",
+    "tickers": [
+      "AITURING",
+      "CHINAUSGDP",
+      "EUEXIT",
+      "EUEXPANSION",
+      "EVSHARE-30JAN",
+      "KXARTISTCOLLABDRAKEKENDRICK-30",
+      "KXBUSHBY-30",
+      "KXCASECESSION-30",
+      "KXCO2LEVEL-30",
+      "KXDATACENTER-30",
+      "KXEARTHQUAKEJAPAN-30",
+      "KXECCOMPACT-30",
+      "KXEUEXITCOUNTRY-30",
+      "KXNBASEATTLE-30",
+      "KXNBATEAM-30",
+      "KXPOLIOELIM-30",
+      "KXPRIMEENGCONSUMPTION-30",
+      "KXSPACEXMARS-30",
+      "KXSPORTSOWNERLBJ-30",
+      "KXU3MAX-30",
+      "KXUSTAKEOVER-30",
+      "STARSHIPMARS"
+    ],
+    "examples": [
+      "8.0 magnitude earthquake in Japan before 2030?",
+      "AI passes Turing test before 2030?",
+      "China overtakes USA’s economy by 2030?",
+      "EU has a new member before 2030?",
+      "EU loses a member before 2030?",
+      "EV market share in 2030?",
+      "How bad will CO2 atmospheric concentration get before 2030?",
+      "How high will unemployment get before 2030?",
+      "Starship launches humans to Mars before 2030?",
+      "What will be the largest source of global primary energy consumption in 2030?",
+      "Which countries will vote to leave the EU before 2030?",
+      "Will Drake and Kendrick Lamar make a song together before 2030?",
+      "Will Karl Bushby Finish His World Walk to Hull Before 2030?",
+      "Will LeBron James be a majority owner of a pro men's basketball team before 2030?",
+      "Will SpaceX land anything successfully on Mars before 2030?",
+      "Will a Seattle pro basketball team play a game before 2030?",
+      "Will a ballot initiative on California secession qualify for a vote before 2030?",
+      "Will the NBA add a new team before 2030?",
+      "Will the National Popular Vote Interstate Compact reach 270 electoral votes before 2030?",
+      "Will the US government take control of any AI company or project before 2030?",
+      "Will the US start the process of building a nuclear-powered data center on a military base before 2030?",
+      "Will there be a year without polio before 2030?"
+    ]
+  },
+  "will tom cruise be cast in another film with ana de": {
+    "team_norm": "will tom cruise be cast in another film with ana de",
+    "tickers": [
+      "KXACTORTOMCRUZ-30"
+    ],
+    "examples": [
+      "Will Tom Cruise be cast in another Film With Ana de Armas?"
+    ]
+  },
+  "armas": {
+    "team_norm": "armas",
+    "tickers": [
+      "KXACTORTOMCRUZ-30"
+    ],
+    "examples": [
+      "Will Tom Cruise be cast in another Film With Ana de Armas?"
+    ]
+  },
+  "ai passes turing test before": {
+    "team_norm": "ai passes turing test before",
+    "tickers": [
+      "AITURING"
+    ],
+    "examples": [
+      "AI passes Turing test before 2030?"
+    ]
+  },
+  "will glen powell be cast in the next indiana jones": {
+    "team_norm": "will glen powell be cast in the next indiana jones",
+    "tickers": [
+      "KXINDIANAPOWELL-30"
+    ],
+    "examples": [
+      "Will Glen Powell be cast in the next Indiana Jones movie?"
+    ]
+  },
+  "movie": {
+    "team_norm": "movie",
+    "tickers": [
+      "KXINDIANAPOWELL-30"
+    ],
+    "examples": [
+      "Will Glen Powell be cast in the next Indiana Jones movie?"
+    ]
+  },
+  "canadian team wins the stanley cup before the 2031": {
+    "team_norm": "canadian team wins the stanley cup before the 2031",
+    "tickers": [
+      "KXCANADACUP-30"
+    ],
+    "examples": [
+      "Canadian team wins the Stanley Cup® before the 2031 season?"
+    ]
+  },
+  "season": {
+    "team_norm": "season",
+    "tickers": [
+      "KXCANADACUP-30"
+    ],
+    "examples": [
+      "Canadian team wins the Stanley Cup® before the 2031 season?"
+    ]
+  },
+  "who will be the next head coach of new york pro mens": {
+    "team_norm": "who will be the next head coach of new york pro mens",
+    "tickers": [
+      "KXNYKCOACH-25"
+    ],
+    "examples": [
+      "Who will be the next head coach of New York Pro Men's Basketball?"
+    ]
+  },
+  "basketball": {
+    "team_norm": "basketball",
+    "tickers": [
+      "KXNYKCOACH-25"
+    ],
+    "examples": [
+      "Who will be the next head coach of New York Pro Men's Basketball?"
+    ]
+  },
+  "who will time name person of the": {
+    "team_norm": "who will time name person of the",
+    "tickers": [
+      "KXTIMEDECADE20S-30"
+    ],
+    "examples": [
+      "Who will Time name as Person of the Decade?"
+    ]
+  },
+  "decade": {
+    "team_norm": "decade",
+    "tickers": [
+      "KXTIMEDECADE20S-30"
+    ],
+    "examples": [
+      "Who will Time name as Person of the Decade?"
+    ]
+  },
+  "ev market share in": {
+    "team_norm": "ev market share in",
+    "tickers": [
+      "EVSHARE-30JAN"
+    ],
+    "examples": [
+      "EV market share in 2030?"
+    ]
+  },
+  "how high will unemployment get before": {
+    "team_norm": "how high will unemployment get before",
+    "tickers": [
+      "KXU3MAX-30"
+    ],
+    "examples": [
+      "How high will unemployment get before 2030?"
+    ]
+  },
+  "who will play britney spears in the jon m chudirected": {
+    "team_norm": "who will play britney spears in the jon m chudirected",
+    "tickers": [
+      "KXPERFORMROLEBRITNEY"
+    ],
+    "examples": [
+      "Who will play Britney Spears in the Jon M. Chu–directed biopic?"
+    ]
+  },
+  "biopic": {
+    "team_norm": "biopic",
+    "tickers": [
+      "KXPERFORMROLEBRITNEY"
+    ],
+    "examples": [
+      "Who will play Britney Spears in the Jon M. Chu–directed biopic?"
+    ]
+  },
+  "who will be the next james bond": {
+    "team_norm": "who will be the next james bond",
+    "tickers": [
+      "KXPERFORMROLE007-VILLAIN"
+    ],
+    "examples": [
+      "Who will be the next James Bond villain?"
+    ]
+  },
+  "villain": {
+    "team_norm": "villain",
+    "tickers": [
+      "KXPERFORMROLE007-VILLAIN"
+    ],
+    "examples": [
+      "Who will be the next James Bond villain?"
+    ]
+  },
+  "who will play q in the next james": {
+    "team_norm": "who will play q in the next james",
+    "tickers": [
+      "KXPERFORMROLE007-Q"
+    ],
+    "examples": [
+      "Who will play Q in the next James Bond?"
+    ]
+  },
+  "bond": {
+    "team_norm": "bond",
+    "tickers": [
+      "KXBOND-30",
+      "KXPERFORMROLE007-FELIX",
+      "KXPERFORMROLE007-MONEYPENNY",
+      "KXPERFORMROLE007-Q"
+    ],
+    "examples": [
+      "Who will be the next James Bond?",
+      "Who will play Felix Leiter in the next James Bond?",
+      "Who will play Moneypenny in the next James Bond?",
+      "Who will play Q in the next James Bond?"
+    ]
+  },
+  "who will play moneypenny in the next james": {
+    "team_norm": "who will play moneypenny in the next james",
+    "tickers": [
+      "KXPERFORMROLE007-MONEYPENNY"
+    ],
+    "examples": [
+      "Who will play Moneypenny in the next James Bond?"
+    ]
+  },
+  "who will play m in the next james bond": {
+    "team_norm": "who will play m in the next james bond",
+    "tickers": [
+      "KXPERFORMROLE007-M"
+    ],
+    "examples": [
+      "Who will play M in the next James Bond film?"
+    ]
+  },
+  "film": {
+    "team_norm": "film",
+    "tickers": [
+      "KXPERFORMROLE007-M"
+    ],
+    "examples": [
+      "Who will play M in the next James Bond film?"
+    ]
+  },
+  "who will play felix leiter in the next james": {
+    "team_norm": "who will play felix leiter in the next james",
+    "tickers": [
+      "KXPERFORMROLE007-FELIX"
+    ],
+    "examples": [
+      "Who will play Felix Leiter in the next James Bond?"
+    ]
+  },
+  "noncompete ban": {
+    "team_norm": "noncompete ban",
+    "tickers": [
+      "NONCOMPETEBAN"
+    ],
+    "examples": [
+      "Non-compete ban overturned?"
+    ]
+  },
+  "overturned": {
+    "team_norm": "overturned",
+    "tickers": [
+      "NONCOMPETEBAN"
+    ],
+    "examples": [
+      "Non-compete ban overturned?"
+    ]
+  },
+  "when will ishowspeed reach": {
+    "team_norm": "when will ishowspeed reach",
+    "tickers": [
+      "KXYTUBESUBSISHOWSPEED"
+    ],
+    "examples": [
+      "When will IShowSpeed reach ?"
+    ]
+  },
+  "will the government take control of any ai company or project before": {
+    "team_norm": "will the government take control of any ai company or project before",
+    "tickers": [
+      "KXUSTAKEOVER-30"
+    ],
+    "examples": [
+      "Will the US government take control of any AI company or project before 2030?"
+    ]
+  },
+  "will luigi mangione be": {
+    "team_norm": "will luigi mangione be",
+    "tickers": [
+      "KXUHCCONVICT-30"
+    ],
+    "examples": [
+      "Will Luigi Mangione be convicted?"
+    ]
+  },
+  "convicted": {
+    "team_norm": "convicted",
+    "tickers": [
+      "KXUHCCONVICT-30"
+    ],
+    "examples": [
+      "Will Luigi Mangione be convicted?"
+    ]
+  },
+  "will a court of thorns and roses be": {
+    "team_norm": "will a court of thorns and roses be",
+    "tickers": [
+      "KXTVSEASONRELEASEACOURTOFTHORNSANDROSES"
+    ],
+    "examples": [
+      "Will A Court Of Thorns and Roses be released?"
+    ]
+  },
+  "who will be the worlds first": {
+    "team_norm": "who will be the worlds first",
+    "tickers": [
+      "KXTRILLIONAIRE-30"
+    ],
+    "examples": [
+      "Who will be the world's first trillionaire?"
+    ]
+  },
+  "trillionaire": {
+    "team_norm": "trillionaire",
+    "tickers": [
+      "KXMUSKTRILLION",
+      "KXTRILLIONAIRE-30"
+    ],
+    "examples": [
+      "When will Elon Musk become a trillionaire?",
+      "Who will be the world's first trillionaire?"
+    ]
+  },
+  "who will be groomsman for the wedding of travis kelce and taylor": {
+    "team_norm": "who will be groomsman for the wedding of travis kelce and taylor",
+    "tickers": [
+      "KXTRAVISKELCEWEDDING-30JAN01"
+    ],
+    "examples": [
+      "Who will be Groomsman for the wedding of Travis Kelce and Taylor Swift?"
+    ]
+  },
+  "swift": {
+    "team_norm": "swift",
+    "tickers": [
+      "KXTAYLORSWIFTWEDDING-30JAN01",
+      "KXTRAVISKELCEWEDDING-30JAN01"
+    ],
+    "examples": [
+      "Who will be Groomsman for the wedding of Travis Kelce and Taylor Swift?",
+      "Who will be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?"
+    ]
+  },
+  "who will be a bridesmaid for the wedding of travis kelce and taylor": {
+    "team_norm": "who will be a bridesmaid for the wedding of travis kelce and taylor",
+    "tickers": [
+      "KXTAYLORSWIFTWEDDING-30JAN01"
+    ],
+    "examples": [
+      "Who will be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?"
+    ]
+  },
+  "will the issue a level 4 travel advisory for": {
+    "team_norm": "will the issue a level 4 travel advisory for",
+    "tickers": [
+      "KXTAIWANLVL4"
+    ],
+    "examples": [
+      "Will the US issue a Level 4 travel advisory for Taiwan?"
+    ]
+  },
+  "taiwan": {
+    "team_norm": "taiwan",
+    "tickers": [
+      "KXRECOGROC-29",
+      "KXTAIWANLVL4"
+    ],
+    "examples": [
+      "Will Trump recognize Taiwan?",
+      "Will the US issue a Level 4 travel advisory for Taiwan?"
+    ]
+  },
+  "where will taylor swift and travis kelces wedding": {
+    "team_norm": "where will taylor swift and travis kelces wedding",
+    "tickers": [
+      "KXSWIFTKELCEWEDDINGLOCATION-30"
+    ],
+    "examples": [
+      "Where will Taylor Swift and Travis Kelce’s Wedding occur?"
+    ]
+  },
+  "occur": {
+    "team_norm": "occur",
+    "tickers": [
+      "KXSWIFTKELCEWEDDINGLOCATION-30"
+    ],
+    "examples": [
+      "Where will Taylor Swift and Travis Kelce’s Wedding occur?"
+    ]
+  },
+  "will lebron james be a majority owner of a pro mens basketball team before": {
+    "team_norm": "will lebron james be a majority owner of a pro mens basketball team before",
+    "tickers": [
+      "KXSPORTSOWNERLBJ-30"
+    ],
+    "examples": [
+      "Will LeBron James be a majority owner of a pro men's basketball team before 2030?"
+    ]
+  },
+  "will spacex land anything successfully on mars before": {
+    "team_norm": "will spacex land anything successfully on mars before",
+    "tickers": [
+      "KXSPACEXMARS-30"
+    ],
+    "examples": [
+      "Will SpaceX land anything successfully on Mars before 2030?"
+    ]
+  },
+  "portland trailblazers bought and changed to seattle": {
+    "team_norm": "portland trailblazers bought and changed to seattle",
+    "tickers": [
+      "KXSONICS-30"
+    ],
+    "examples": [
+      "Portland Trailblazers bought and changed to Seattle SuperSonics?"
+    ]
+  },
+  "supersonics": {
+    "team_norm": "supersonics",
+    "tickers": [
+      "KXSONICS-30"
+    ],
+    "examples": [
+      "Portland Trailblazers bought and changed to Seattle SuperSonics?"
+    ]
+  },
+  "will there be an announcement that the simpsons is": {
+    "team_norm": "will there be an announcement that the simpsons is",
+    "tickers": [
+      "KXSHOWENDSIMPSONS-30"
+    ],
+    "examples": [
+      "Will there be an announcement that The Simpsons is ending?"
+    ]
+  },
+  "ending": {
+    "team_norm": "ending",
+    "tickers": [
+      "KXSHOWENDFAMILYGUY-30",
+      "KXSHOWENDSIMPSONS-30"
+    ],
+    "examples": [
+      "Will there be an announcement that Family Guy is ending?",
+      "Will there be an announcement that The Simpsons is ending?"
+    ]
+  },
+  "will there be an announcement that family guy is": {
+    "team_norm": "will there be an announcement that family guy is",
+    "tickers": [
+      "KXSHOWENDFAMILYGUY-30"
+    ],
+    "examples": [
+      "Will there be an announcement that Family Guy is ending?"
+    ]
+  },
+  "who will be 1st in the romanian election first": {
+    "team_norm": "who will be 1st in the romanian election first",
+    "tickers": [
+      "KXROMANIATOP-30"
+    ],
+    "examples": [
+      "Who will be 1st in the Romanian election first round?"
+    ]
+  },
+  "round": {
+    "team_norm": "round",
+    "tickers": [
+      "KXROMANIATOP-30"
+    ],
+    "examples": [
+      "Who will be 1st in the Romanian election first round?"
+    ]
+  },
+  "will there be a year without polio before": {
+    "team_norm": "will there be a year without polio before",
+    "tickers": [
+      "KXPOLIOELIM-30"
+    ],
+    "examples": [
+      "Will there be a year without polio before 2030?"
+    ]
+  },
+  "who will be the next prime minister of the": {
+    "team_norm": "who will be the next prime minister of the",
+    "tickers": [
+      "KXNEXTUKPM-30"
+    ],
+    "examples": [
+      "Who will be the next Prime Minister of the UK?"
+    ]
+  },
+  "uk": {
+    "team_norm": "uk",
+    "tickers": [
+      "KXNEXTUKPM-30"
+    ],
+    "examples": [
+      "Who will be the next Prime Minister of the UK?"
+    ]
+  },
+  "who will be the next editorinchief of": {
+    "team_norm": "who will be the next editorinchief of",
+    "tickers": [
+      "KXNEWROLEVOGUE-30JAN"
+    ],
+    "examples": [
+      "Who will be the next Editor-in-Chief of Vogue?"
+    ]
+  },
+  "vogue": {
+    "team_norm": "vogue",
+    "tickers": [
+      "KXNEWROLEVOGUE-30JAN"
+    ],
+    "examples": [
+      "Who will be the next Editor-in-Chief of Vogue?"
+    ]
+  },
+  "will the nba add a new team before": {
+    "team_norm": "will the nba add a new team before",
+    "tickers": [
+      "KXNBATEAM-30"
+    ],
+    "examples": [
+      "Will the NBA add a new team before 2030?"
+    ]
+  },
+  "will a seattle pro basketball team play a game before": {
+    "team_norm": "will a seattle pro basketball team play a game before",
+    "tickers": [
+      "KXNBASEATTLE-30"
+    ],
+    "examples": [
+      "Will a Seattle pro basketball team play a game before 2030?"
+    ]
+  },
+  "when will elon musk become a": {
+    "team_norm": "when will elon musk become a",
+    "tickers": [
+      "KXMUSKTRILLION"
+    ],
+    "examples": [
+      "When will Elon Musk become a trillionaire?"
+    ]
+  },
+  "when will prison break": {
+    "team_norm": "when will prison break",
+    "tickers": [
+      "KXMEDIARELEASEPRISONBREAK-30JAN01"
+    ],
+    "examples": [
+      "When will Prison Break return?"
+    ]
+  },
+  "return": {
+    "team_norm": "return",
+    "tickers": [
+      "KXMEDIARELEASEPRISONBREAK-30JAN01"
+    ],
+    "examples": [
+      "When will Prison Break return?"
+    ]
+  },
+  "courts consider live nation a": {
+    "team_norm": "courts consider live nation a",
+    "tickers": [
+      "KXLIVENATIONUS-30"
+    ],
+    "examples": [
+      "Courts consider Live Nation a monopoly?"
+    ]
+  },
+  "monopoly": {
+    "team_norm": "monopoly",
+    "tickers": [
+      "AMAZONFTC-29DEC31",
+      "APPLEUS",
+      "KXLIVENATIONUS-30"
+    ],
+    "examples": [
+      "Courts consider Amazon a monopoly?",
+      "Courts consider Apple a monopoly?",
+      "Courts consider Live Nation a monopoly?"
+    ]
+  },
+  "who will replace jamie dimon jpmorgan": {
+    "team_norm": "who will replace jamie dimon jpmorgan",
+    "tickers": [
+      "KXJPMCEONEW"
+    ],
+    "examples": [
+      "Who will replace Jamie Dimon as JPMorgan CEO?"
+    ]
+  },
+  "ceo": {
+    "team_norm": "ceo",
+    "tickers": [
+      "KXJPMCEONEW"
+    ],
+    "examples": [
+      "Who will replace Jamie Dimon as JPMorgan CEO?"
+    ]
+  },
+  "when will airtable officially announce an": {
+    "team_norm": "when will airtable officially announce an",
+    "tickers": [
+      "KXIPOAIRTABLE"
+    ],
+    "examples": [
+      "When will Airtable officially announce an IPO?"
+    ]
+  },
+  "ipo": {
+    "team_norm": "ipo",
+    "tickers": [
+      "KXIPOAIRTABLE"
+    ],
+    "examples": [
+      "When will Airtable officially announce an IPO?"
+    ]
+  },
+  "when will there be a": {
+    "team_norm": "when will there be a",
+    "tickers": [
+      "KXHALFTRIL"
+    ],
+    "examples": [
+      "When will there be a half-trillionaire?"
+    ]
+  },
+  "halftrillionaire": {
+    "team_norm": "halftrillionaire",
+    "tickers": [
+      "KXHALFTRIL"
+    ],
+    "examples": [
+      "When will there be a half-trillionaire?"
+    ]
+  },
+  "what will the price of gta vi be on": {
+    "team_norm": "what will the price of gta vi be on",
+    "tickers": [
+      "KXGTAPRICE"
+    ],
+    "examples": [
+      "What will the price of GTA VI be on PS5?"
+    ]
+  },
+  "ps5": {
+    "team_norm": "ps5",
+    "tickers": [
+      "KXGTAPRICE"
+    ],
+    "examples": [
+      "What will the price of GTA VI be on PS5?"
+    ]
+  },
+  "what songs will be on the gta 6 radio at": {
+    "team_norm": "what songs will be on the gta 6 radio at",
+    "tickers": [
+      "KXGTA6SONGS-30"
+    ],
+    "examples": [
+      "What songs will be on the GTA 6 radio at launch?"
+    ]
+  },
+  "launch": {
+    "team_norm": "launch",
+    "tickers": [
+      "KXGTA6SONGS-30"
+    ],
+    "examples": [
+      "What songs will be on the GTA 6 radio at launch?"
+    ]
+  },
+  "next government of": {
+    "team_norm": "next government of",
+    "tickers": [
+      "KXCANCOALITION-30",
+      "KXGERCOALITION-30"
+    ],
+    "examples": [
+      "Next government of Canada?",
+      "Next government of Germany?"
+    ]
+  },
+  "germany": {
+    "team_norm": "germany",
+    "tickers": [
+      "KXGERCOALITION-30"
+    ],
+    "examples": [
+      "Next government of Germany?"
+    ]
+  },
+  "how much will a fyre festival 2 general admission ticket": {
+    "team_norm": "how much will a fyre festival 2 general admission ticket",
+    "tickers": [
+      "KXFYREFESTPRICE-30"
+    ],
+    "examples": [
+      "How much will a Fyre Festival 2 General Admission Ticket cost?"
+    ]
+  },
+  "cost": {
+    "team_norm": "cost",
+    "tickers": [
+      "KXFYREFESTPRICE-30"
+    ],
+    "examples": [
+      "How much will a Fyre Festival 2 General Admission Ticket cost?"
+    ]
+  },
+  "what countries will hold referenda on leaving the": {
+    "team_norm": "what countries will hold referenda on leaving the",
+    "tickers": [
+      "KXEUREF-30"
+    ],
+    "examples": [
+      "What countries will hold referenda on leaving the EU?"
+    ]
+  },
+  "eu": {
+    "team_norm": "eu",
+    "tickers": [
+      "KXEUREF-30"
+    ],
+    "examples": [
+      "What countries will hold referenda on leaving the EU?"
+    ]
+  },
+  "which countries will vote to leave the eu before": {
+    "team_norm": "which countries will vote to leave the eu before",
+    "tickers": [
+      "KXEUEXITCOUNTRY-30"
+    ],
+    "examples": [
+      "Which countries will vote to leave the EU before 2030?"
+    ]
+  },
+  "will the national popular vote interstate compact reach 270 electoral votes before": {
+    "team_norm": "will the national popular vote interstate compact reach 270 electoral votes before",
+    "tickers": [
+      "KXECCOMPACT-30"
+    ],
+    "examples": [
+      "Will the National Popular Vote Interstate Compact reach 270 electoral votes before 2030?"
+    ]
+  },
+  "80 magnitude earthquake in japan before": {
+    "team_norm": "80 magnitude earthquake in japan before",
+    "tickers": [
+      "KXEARTHQUAKEJAPAN-30"
+    ],
+    "examples": [
+      "8.0 magnitude earthquake in Japan before 2030?"
+    ]
+  },
+  "will the start the process of building a nuclearpowered data center on a military base before": {
+    "team_norm": "will the start the process of building a nuclearpowered data center on a military base before",
+    "tickers": [
+      "KXDATACENTER-30"
+    ],
+    "examples": [
+      "Will the US start the process of building a nuclear-powered data center on a military base before 2030?"
+    ]
+  },
+  "how bad will co2 atmospheric concentration get before": {
+    "team_norm": "how bad will co2 atmospheric concentration get before",
+    "tickers": [
+      "KXCO2LEVEL-30"
+    ],
+    "examples": [
+      "How bad will CO2 atmospheric concentration get before 2030?"
+    ]
+  },
+  "will a ballot initiative on california secession qualify for a vote before": {
+    "team_norm": "will a ballot initiative on california secession qualify for a vote before",
+    "tickers": [
+      "KXCASECESSION-30"
+    ],
+    "examples": [
+      "Will a ballot initiative on California secession qualify for a vote before 2030?"
+    ]
+  },
+  "canada": {
+    "team_norm": "canada",
+    "tickers": [
+      "KXCANCOALITION-30",
+      "KXCANTERRITORY-29"
+    ],
+    "examples": [
+      "Next government of Canada?",
+      "Will the US take control of any part of Canada?"
+    ]
+  },
+  "will karl bushby finish his world walk to hull before": {
+    "team_norm": "will karl bushby finish his world walk to hull before",
+    "tickers": [
+      "KXBUSHBY-30"
+    ],
+    "examples": [
+      "Will Karl Bushby Finish His World Walk to Hull Before 2030?"
+    ]
+  },
+  "who will be the next james": {
+    "team_norm": "who will be the next james",
+    "tickers": [
+      "KXBOND-30"
+    ],
+    "examples": [
+      "Who will be the next James Bond?"
+    ]
+  },
+  "will blue origin land on the moon before": {
+    "team_norm": "will blue origin land on the moon before",
+    "tickers": [
+      "KXBLUESPACEX-30"
+    ],
+    "examples": [
+      "Will Blue Origin land on the moon before SpaceX?"
+    ]
+  },
+  "spacex": {
+    "team_norm": "spacex",
+    "tickers": [
+      "KXBLUESPACEX-30"
+    ],
+    "examples": [
+      "Will Blue Origin land on the moon before SpaceX?"
+    ]
+  },
+  "when will young thug and gunna make a song": {
+    "team_norm": "when will young thug and gunna make a song",
+    "tickers": [
+      "KXARTISTCOLLABTHUGANDGUNNA-30"
+    ],
+    "examples": [
+      "When will Young Thug and Gunna make a song together?"
+    ]
+  },
+  "together": {
+    "team_norm": "together",
+    "tickers": [
+      "KXARTISTCOLLABTHUGANDGUNNA-30"
+    ],
+    "examples": [
+      "When will Young Thug and Gunna make a song together?"
+    ]
+  },
+  "will drake and kendrick lamar make a song together before": {
+    "team_norm": "will drake and kendrick lamar make a song together before",
+    "tickers": [
+      "KXARTISTCOLLABDRAKEKENDRICK-30"
+    ],
+    "examples": [
+      "Will Drake and Kendrick Lamar make a song together before 2030?"
+    ]
+  },
+  "eu has a new member before": {
+    "team_norm": "eu has a new member before",
+    "tickers": [
+      "EUEXPANSION"
+    ],
+    "examples": [
+      "EU has a new member before 2030?"
+    ]
+  },
+  "eu loses a member before": {
+    "team_norm": "eu loses a member before",
+    "tickers": [
+      "EUEXIT"
+    ],
+    "examples": [
+      "EU loses a member before 2030?"
+    ]
+  },
+  "china overtakes usas economy by": {
+    "team_norm": "china overtakes usas economy by",
+    "tickers": [
+      "CHINAUSGDP"
+    ],
+    "examples": [
+      "China overtakes USA’s economy by 2030?"
+    ]
+  },
+  "what genre will beyonces next album": {
+    "team_norm": "what genre will beyonces next album",
+    "tickers": [
+      "BEYONCEGENRE-30"
+    ],
+    "examples": [
+      "What genre will Beyonce’s next album be?"
+    ]
+  },
+  "courts consider amazon a": {
+    "team_norm": "courts consider amazon a",
+    "tickers": [
+      "AMAZONFTC-29DEC31"
+    ],
+    "examples": [
+      "Courts consider Amazon a monopoly?"
+    ]
+  },
+  "ethereum hits new alltime high before": {
+    "team_norm": "ethereum hits new alltime high before",
+    "tickers": [
+      "BTCETHATH-29DEC31"
+    ],
+    "examples": [
+      "Ethereum hits new all-time high before Bitcoin?"
+    ]
+  },
+  "bitcoin": {
+    "team_norm": "bitcoin",
+    "tickers": [
+      "BTCETHATH-29DEC31"
+    ],
+    "examples": [
+      "Ethereum hits new all-time high before Bitcoin?"
+    ]
+  },
+  "courts consider apple a": {
+    "team_norm": "courts consider apple a",
+    "tickers": [
+      "APPLEUS"
+    ],
+    "examples": [
+      "Courts consider Apple a monopoly?"
+    ]
+  },
+  "starship launches humans to mars before": {
+    "team_norm": "starship launches humans to mars before",
+    "tickers": [
+      "STARSHIPMARS"
+    ],
+    "examples": [
+      "Starship launches humans to Mars before 2030?"
+    ]
+  },
+  "will alberta vote to secede from canada before the next general": {
+    "team_norm": "will alberta vote to secede from canada before the next general",
+    "tickers": [
+      "KXALBERTAREFYES-29"
+    ],
+    "examples": [
+      "Will Alberta vote to secede from Canada before the next general election?"
+    ]
+  },
+  "which party will win the next uk general": {
+    "team_norm": "which party will win the next uk general",
+    "tickers": [
+      "KXUKPARTY-29"
+    ],
+    "examples": [
+      "Which party will win the next UK general election?"
+    ]
+  },
+  "will trump balance the": {
+    "team_norm": "will trump balance the",
+    "tickers": [
+      "KXBALANCE-29"
+    ],
+    "examples": [
+      "Will Trump balance the budget?"
+    ]
+  },
+  "budget": {
+    "team_norm": "budget",
+    "tickers": [
+      "KXBALANCE-29"
+    ],
+    "examples": [
+      "Will Trump balance the budget?"
+    ]
+  },
+  "will trump bring back": {
+    "team_norm": "will trump bring back",
+    "tickers": [
+      "KXGDPSHAREMANU-29"
+    ],
+    "examples": [
+      "Will Trump bring back manufacturing?"
+    ]
+  },
+  "manufacturing": {
+    "team_norm": "manufacturing",
+    "tickers": [
+      "KXGDPSHAREMANU-29"
+    ],
+    "examples": [
+      "Will Trump bring back manufacturing?"
+    ]
+  },
+  "will south korean president lee jaemyung serve their full": {
+    "team_norm": "will south korean president lee jaemyung serve their full",
+    "tickers": [
+      "KXFULLTERMSKPRES-29"
+    ],
+    "examples": [
+      "Will South Korean President Lee Jae-myung serve their full term?"
+    ]
+  },
+  "term": {
+    "team_norm": "term",
+    "tickers": [
+      "KXABRAHAMQ-29",
+      "KXABRAHAMSA-29",
+      "KXABRAHAMSY-29",
+      "KXAMEND22-29",
+      "KXCONSTAMEND-29",
+      "KXEOTRUMPTERM-29JAN20",
+      "KXFULLTERMSKPRES-29",
+      "KXIMPEACH-29",
+      "KXINDJUDICIARY-29",
+      "KXSCOTUSPOWER-29",
+      "KXSCOTUSRESIGN-29",
+      "KXSTATE51-29",
+      "KXTRUMPRESIGN",
+      "KXTRUMPSNL-29",
+      "KXUSAKIM-29"
+    ],
+    "examples": [
+      "How many executive orders will Trump sign in his second term?",
+      "What will be the 51st state in Trump's term?",
+      "What will the Supreme Court look like at the end of Trump's term?",
+      "Which Supreme Court justices will resign during Trump's term?",
+      "Will Israel and Qatar normalize relations during Trump's term?",
+      "Will Israel and Saudi Arabia normalize relations during Trump's term?",
+      "Will Israel and Syria normalize relations during Trump's term?",
+      "Will Kim Jong-Un visit the US during Trump's term?",
+      "Will President Trump be impeached during his term?",
+      "Will South Korean President Lee Jae-myung serve their full term?",
+      "Will Trump be allowed to run for a 3rd term?",
+      "Will Trump go on SNL during his second term?",
+      "Will Trump resign during his term?",
+      "Will a new Constitutional Amendment be added during Trump's term?",
+      "Will the independence of the judiciary be weakened during Trump's term?"
+    ]
+  },
+  "how much government spending will trump cut before his term": {
+    "team_norm": "how much government spending will trump cut before his term",
+    "tickers": [
+      "KXGOVTCUTS-28"
+    ],
+    "examples": [
+      "How much government spending will Trump cut before his term ends?"
+    ]
+  },
+  "ends": {
+    "team_norm": "ends",
+    "tickers": [
+      "KXGOVTCUTS-28",
+      "KXMARTIAL-29JAN20",
+      "KXSCOTUSCERT3RD-29JAN"
+    ],
+    "examples": [
+      "How much government spending will Trump cut before his term ends?",
+      "Will Trump impose martial law before his term ends?",
+      "Will the Supreme Court hear a 3rd Amendment case before Trump's term ends?"
+    ]
+  },
+  "peak national debt under trump": {
+    "team_norm": "peak national debt under trump",
+    "tickers": [
+      "KXDEBTGROWTH-28DEC31"
+    ],
+    "examples": [
+      "Peak US National Debt Under Trump Administration"
+    ]
+  },
+  "administration": {
+    "team_norm": "administration",
+    "tickers": [
+      "KXDEBTGROWTH-28DEC31",
+      "KXWITHDRAW-29"
+    ],
+    "examples": [
+      "Peak US National Debt Under Trump Administration",
+      "What will the U.S. withdraw from during the Trump Administration?"
+    ]
+  },
+  "will trump halve the trade": {
+    "team_norm": "will trump halve the trade",
+    "tickers": [
+      "KXTDEFICITHALF-29"
+    ],
+    "examples": [
+      "Will Trump halve the trade deficit?"
+    ]
+  },
+  "deficit": {
+    "team_norm": "deficit",
+    "tickers": [
+      "KXTDEFICITHALF-29"
+    ],
+    "examples": [
+      "Will Trump halve the trade deficit?"
+    ]
+  },
+  "will trump reduce the national": {
+    "team_norm": "will trump reduce the national",
+    "tickers": [
+      "KXDEBTSHRINK-28NOV11"
+    ],
+    "examples": [
+      "Will Trump reduce the national debt?"
+    ]
+  },
+  "debt": {
+    "team_norm": "debt",
+    "tickers": [
+      "KXDEBTSHRINK-28NOV11"
+    ],
+    "examples": [
+      "Will Trump reduce the national debt?"
+    ]
+  },
+  "how many executive orders will trump sign in his second": {
+    "team_norm": "how many executive orders will trump sign in his second",
+    "tickers": [
+      "KXEOTRUMPTERM-29JAN20"
+    ],
+    "examples": [
+      "How many executive orders will Trump sign in his second term?"
+    ]
+  },
+  "2028 who will win the presidency house and": {
+    "team_norm": "2028 who will win the presidency house and",
+    "tickers": [
+      "POWER-28"
+    ],
+    "examples": [
+      "2028: Who will win the Presidency, House, and Senate?"
+    ]
+  },
+  "senate": {
+    "team_norm": "senate",
+    "tickers": [
+      "POWER-28"
+    ],
+    "examples": [
+      "2028: Who will win the Presidency, House, and Senate?"
+    ]
+  },
+  "will there be a trump economic": {
+    "team_norm": "will there be a trump economic",
+    "tickers": [
+      "KXGDPUSMAX-28"
+    ],
+    "examples": [
+      "Will there be a Trump economic boom?"
+    ]
+  },
+  "boom": {
+    "team_norm": "boom",
+    "tickers": [
+      "KXGDPUSMAX-28"
+    ],
+    "examples": [
+      "Will there be a Trump economic boom?"
+    ]
+  },
+  "how much will the acquire greenland": {
+    "team_norm": "how much will the acquire greenland",
+    "tickers": [
+      "KXGREENLANDPRICE-29JAN21"
+    ],
+    "examples": [
+      "How much will the US acquire Greenland for?"
+    ]
+  },
+  "for": {
+    "team_norm": "for",
+    "tickers": [
+      "KXGREENLANDPRICE-29JAN21"
+    ],
+    "examples": [
+      "How much will the US acquire Greenland for?"
+    ]
+  },
+  "will trump be allowed to run for a 3rd": {
+    "team_norm": "will trump be allowed to run for a 3rd",
+    "tickers": [
+      "KXAMEND22-29"
+    ],
+    "examples": [
+      "Will Trump be allowed to run for a 3rd term?"
+    ]
+  },
+  "will the acquire any new": {
+    "team_norm": "will the acquire any new",
+    "tickers": [
+      "KXUSAEXPANDTERRITORY"
+    ],
+    "examples": [
+      "Will the US acquire any new territory?"
+    ]
+  },
+  "territory": {
+    "team_norm": "territory",
+    "tickers": [
+      "KXUSAEXPANDTERRITORY"
+    ],
+    "examples": [
+      "Will the US acquire any new territory?"
+    ]
+  },
+  "will trump resign during his": {
+    "team_norm": "will trump resign during his",
+    "tickers": [
+      "KXTRUMPRESIGN"
+    ],
+    "examples": [
+      "Will Trump resign during his term?"
+    ]
+  },
+  "who will trump": {
+    "team_norm": "who will trump",
+    "tickers": [
+      "KXTRUMPPARDONS-29JAN21"
+    ],
+    "examples": [
+      "Who will Trump pardon?"
+    ]
+  },
+  "pardon": {
+    "team_norm": "pardon",
+    "tickers": [
+      "KXTRUMPPARDONS-29JAN21"
+    ],
+    "examples": [
+      "Who will Trump pardon?"
+    ]
+  },
+  "who will be the next supreme court": {
+    "team_norm": "who will be the next supreme court",
+    "tickers": [
+      "KXSCOURT-29"
+    ],
+    "examples": [
+      "Who will be the next Supreme Court justice?"
+    ]
+  },
+  "justice": {
+    "team_norm": "justice",
+    "tickers": [
+      "KXSCOURT-29"
+    ],
+    "examples": [
+      "Who will be the next Supreme Court justice?"
+    ]
+  },
+  "next us presidential election": {
+    "team_norm": "next us presidential election",
+    "tickers": [
+      "KXPRESPERSON-28"
+    ],
+    "examples": [
+      "Next U.S. Presidential Election Winner?"
+    ]
+  },
+  "winner": {
+    "team_norm": "winner",
+    "tickers": [
+      "KXPRESPERSON-28"
+    ],
+    "examples": [
+      "Next U.S. Presidential Election Winner?"
+    ]
+  },
+  "which party will win the 2028 presidential": {
+    "team_norm": "which party will win the 2028 presidential",
+    "tickers": [
+      "KXPRESPARTY-2028"
+    ],
+    "examples": [
+      "Which party will win the 2028 Presidential Election?"
+    ]
+  },
+  "will trump add himself to mt": {
+    "team_norm": "will trump add himself to mt",
+    "tickers": [
+      "KXMTRUSHMORE-29"
+    ],
+    "examples": [
+      "Will Trump add himself to Mt. Rushmore?"
+    ]
+  },
+  "rushmore": {
+    "team_norm": "rushmore",
+    "tickers": [
+      "KXMTRUSHMORE-29"
+    ],
+    "examples": [
+      "Will Trump add himself to Mt. Rushmore?"
+    ]
+  },
+  "will the take control of any part of": {
+    "team_norm": "will the take control of any part of",
+    "tickers": [
+      "KXCANTERRITORY-29",
+      "KXGREENTERRITORY-29"
+    ],
+    "examples": [
+      "Will the US take control of any part of Canada?",
+      "Will the US take control of any part of Greenland?"
+    ]
+  },
+  "greenland": {
+    "team_norm": "greenland",
+    "tickers": [
+      "KXGREENLAND-29",
+      "KXGREENTERRITORY-29"
+    ],
+    "examples": [
+      "Will Trump buy at least part of Greenland?",
+      "Will the US take control of any part of Greenland?"
+    ]
+  },
+  "who will win the governorship in": {
+    "team_norm": "who will win the governorship in",
+    "tickers": [
+      "GOVPARTYDE-28",
+      "GOVPARTYIN-28",
+      "GOVPARTYLA-28",
+      "GOVPARTYMO-28",
+      "GOVPARTYMS-28",
+      "GOVPARTYVT-28"
+    ],
+    "examples": [
+      "Who will win the governorship in Delaware?",
+      "Who will win the governorship in Indiana?",
+      "Who will win the governorship in Louisiana?",
+      "Who will win the governorship in Mississippi?",
+      "Who will win the governorship in Missouri?",
+      "Who will win the governorship in Vermont?"
+    ]
+  },
+  "delaware": {
+    "team_norm": "delaware",
+    "tickers": [
+      "GOVPARTYDE-28"
+    ],
+    "examples": [
+      "Who will win the governorship in Delaware?"
+    ]
+  },
+  "will zelenskyy and putin": {
+    "team_norm": "will zelenskyy and putin",
+    "tickers": [
+      "KXZELENSKYPUTIN-29"
+    ],
+    "examples": [
+      "Will Zelenskyy and Putin speak?"
+    ]
+  },
+  "speak": {
+    "team_norm": "speak",
+    "tickers": [
+      "KXZELENSKYPUTIN-29"
+    ],
+    "examples": [
+      "Will Zelenskyy and Putin speak?"
+    ]
+  },
+  "what will the us withdraw from during the trump": {
+    "team_norm": "what will the us withdraw from during the trump",
+    "tickers": [
+      "KXWITHDRAW-29"
+    ],
+    "examples": [
+      "What will the U.S. withdraw from during the Trump Administration?"
+    ]
+  },
+  "will congress override trumps": {
+    "team_norm": "will congress override trumps",
+    "tickers": [
+      "KXVETOOVERRIDE-29JAN20"
+    ],
+    "examples": [
+      "Will Congress override Trump's veto?"
+    ]
+  },
+  "veto": {
+    "team_norm": "veto",
+    "tickers": [
+      "KXVETOOVERRIDE-29JAN20"
+    ],
+    "examples": [
+      "Will Congress override Trump's veto?"
+    ]
+  },
+  "will kim jongun visit the during trumps": {
+    "team_norm": "will kim jongun visit the during trumps",
+    "tickers": [
+      "KXUSAKIM-29"
+    ],
+    "examples": [
+      "Will Kim Jong-Un visit the US during Trump's term?"
+    ]
+  },
+  "how many secretaries of state will trump": {
+    "team_norm": "how many secretaries of state will trump",
+    "tickers": [
+      "KXTRUMPSTATECOUNT-29"
+    ],
+    "examples": [
+      "How many Secretaries of State will Trump have?"
+    ]
+  },
+  "have": {
+    "team_norm": "have",
+    "tickers": [
+      "KXTRUMPAGCOUNT-29",
+      "KXTRUMPSTATECOUNT-29"
+    ],
+    "examples": [
+      "How many Attorneys General will Trump have?",
+      "How many Secretaries of State will Trump have?"
+    ]
+  },
+  "will trump go on snl during his second": {
+    "team_norm": "will trump go on snl during his second",
+    "tickers": [
+      "KXTRUMPSNL-29"
+    ],
+    "examples": [
+      "Will Trump go on SNL during his second term?"
+    ]
+  },
+  "will trump be impeached and removed from": {
+    "team_norm": "will trump be impeached and removed from",
+    "tickers": [
+      "KXTRUMPREMOVE"
+    ],
+    "examples": [
+      "Will Trump be impeached and removed from office?"
+    ]
+  },
+  "office": {
+    "team_norm": "office",
+    "tickers": [
+      "KXTRUMPREMOVE"
+    ],
+    "examples": [
+      "Will Trump be impeached and removed from office?"
+    ]
+  },
+  "will trump pardon any members of his": {
+    "team_norm": "will trump pardon any members of his",
+    "tickers": [
+      "KXTRUMPPARDONFAMILY-29JAN20"
+    ],
+    "examples": [
+      "Will Trump pardon any members of his family?"
+    ]
+  },
+  "family": {
+    "team_norm": "family",
+    "tickers": [
+      "KXTRUMPPARDONFAMILY-29JAN20"
+    ],
+    "examples": [
+      "Will Trump pardon any members of his family?"
+    ]
+  },
+  "how many attorneys general will trump": {
+    "team_norm": "how many attorneys general will trump",
+    "tickers": [
+      "KXTRUMPAGCOUNT-29"
+    ],
+    "examples": [
+      "How many Attorneys General will Trump have?"
+    ]
+  },
+  "will trump impose term limits on": {
+    "team_norm": "will trump impose term limits on",
+    "tickers": [
+      "KXTERMLIMITS-29"
+    ],
+    "examples": [
+      "Will Trump impose term limits on Congress?"
+    ]
+  },
+  "congress": {
+    "team_norm": "congress",
+    "tickers": [
+      "KXTERMLIMITS-29"
+    ],
+    "examples": [
+      "Will Trump impose term limits on Congress?"
+    ]
+  },
+  "will trump invoke the tafthartley act during his": {
+    "team_norm": "will trump invoke the tafthartley act during his",
+    "tickers": [
+      "KXTAFTHARTLEY-29"
+    ],
+    "examples": [
+      "Will Trump invoke the Taft-Hartley Act during his presidency?"
+    ]
+  },
+  "presidency": {
+    "team_norm": "presidency",
+    "tickers": [
+      "KXAMEND25-29",
+      "KXSCOTUSCHANGE-29",
+      "KXTAFTHARTLEY-29"
+    ],
+    "examples": [
+      "Will Trump invoke the Taft-Hartley Act during his presidency?",
+      "Will the 25th Amendment be used during Trump's Presidency?",
+      "Will the size of the Supreme Court be changed during Trump's Presidency?"
+    ]
+  },
+  "what will be the 51st state in trumps": {
+    "team_norm": "what will be the 51st state in trumps",
+    "tickers": [
+      "KXSTATE51-29"
+    ],
+    "examples": [
+      "What will be the 51st state in Trump's term?"
+    ]
+  },
+  "will trump add a 51st state to the": {
+    "team_norm": "will trump add a 51st state to the",
+    "tickers": [
+      "KXSTATE-29"
+    ],
+    "examples": [
+      "Will Trump add a 51st state to the US?"
+    ]
+  },
+  "which supreme court justices will resign during trumps": {
+    "team_norm": "which supreme court justices will resign during trumps",
+    "tickers": [
+      "KXSCOTUSRESIGN-29"
+    ],
+    "examples": [
+      "Which Supreme Court justices will resign during Trump's term?"
+    ]
+  },
+  "what will the supreme court look like at the end of trumps": {
+    "team_norm": "what will the supreme court look like at the end of trumps",
+    "tickers": [
+      "KXSCOTUSPOWER-29"
+    ],
+    "examples": [
+      "What will the Supreme Court look like at the end of Trump's term?"
+    ]
+  },
+  "will the size of the supreme court be changed during trumps": {
+    "team_norm": "will the size of the supreme court be changed during trumps",
+    "tickers": [
+      "KXSCOTUSCHANGE-29"
+    ],
+    "examples": [
+      "Will the size of the Supreme Court be changed during Trump's Presidency?"
+    ]
+  },
+  "will the supreme court hear a 3rd amendment case before trumps term": {
+    "team_norm": "will the supreme court hear a 3rd amendment case before trumps term",
+    "tickers": [
+      "KXSCOTUSCERT3RD-29JAN"
+    ],
+    "examples": [
+      "Will the Supreme Court hear a 3rd Amendment case before Trump's term ends?"
+    ]
+  },
+  "will trump recognize": {
+    "team_norm": "will trump recognize",
+    "tickers": [
+      "KXRECOGROC-29",
+      "KXRECOGSOMALI-29"
+    ],
+    "examples": [
+      "Will Trump recognize Somaliland?",
+      "Will Trump recognize Taiwan?"
+    ]
+  },
+  "somaliland": {
+    "team_norm": "somaliland",
+    "tickers": [
+      "KXRECOGSOMALI-29"
+    ],
+    "examples": [
+      "Will Trump recognize Somaliland?"
+    ]
+  },
+  "will congress pass a law that gets rid of the": {
+    "team_norm": "will congress pass a law that gets rid of the",
+    "tickers": [
+      "KXPENNYCONGRESS-29"
+    ],
+    "examples": [
+      "Will Congress pass a law that gets rid of the penny?"
+    ]
+  },
+  "penny": {
+    "team_norm": "penny",
+    "tickers": [
+      "KXPENNYCONGRESS-29"
+    ],
+    "examples": [
+      "Will Congress pass a law that gets rid of the penny?"
+    ]
+  },
+  "who will be trumps next secretary of": {
+    "team_norm": "who will be trumps next secretary of",
+    "tickers": [
+      "KXNEXTDEF-29",
+      "KXNEXTSTATE-29"
+    ],
+    "examples": [
+      "Who will be Trump's next Secretary of Defense?",
+      "Who will be Trump's next Secretary of State?"
+    ]
+  },
+  "state": {
+    "team_norm": "state",
+    "tickers": [
+      "KXNEXTSTATE-29"
+    ],
+    "examples": [
+      "Who will be Trump's next Secretary of State?"
+    ]
+  },
+  "who will be trumps next dhs": {
+    "team_norm": "who will be trumps next dhs",
+    "tickers": [
+      "KXNEXTDHSSEC-29"
+    ],
+    "examples": [
+      "Who will be Trump's next DHS secretary?"
+    ]
+  },
+  "secretary": {
+    "team_norm": "secretary",
+    "tickers": [
+      "KXNEXTDHSSEC-29"
+    ],
+    "examples": [
+      "Who will be Trump's next DHS secretary?"
+    ]
+  },
+  "defense": {
+    "team_norm": "defense",
+    "tickers": [
+      "KXNEXTDEF-29"
+    ],
+    "examples": [
+      "Who will be Trump's next Secretary of Defense?"
+    ]
+  },
+  "how many supreme court justices will the president": {
+    "team_norm": "how many supreme court justices will the president",
+    "tickers": [
+      "KXNEWSCOTUSCONF-29JAN20"
+    ],
+    "examples": [
+      "How many Supreme Court justices will the President confirm?"
+    ]
+  },
+  "confirm": {
+    "team_norm": "confirm",
+    "tickers": [
+      "KXNEWSCOTUSCONF-29JAN20"
+    ],
+    "examples": [
+      "How many Supreme Court justices will the President confirm?"
+    ]
+  },
+  "will trump approve a new city on federal": {
+    "team_norm": "will trump approve a new city on federal",
+    "tickers": [
+      "KXNEWCITY-29"
+    ],
+    "examples": [
+      "Will Trump approve a new city on federal land?"
+    ]
+  },
+  "land": {
+    "team_norm": "land",
+    "tickers": [
+      "KXNEWCITY-29"
+    ],
+    "examples": [
+      "Will Trump approve a new city on federal land?"
+    ]
+  },
+  "will trump rename denali back to mt": {
+    "team_norm": "will trump rename denali back to mt",
+    "tickers": [
+      "KXMTMCK-29"
+    ],
+    "examples": [
+      "Will Trump rename Denali back to Mt. McKinley?"
+    ]
+  },
+  "mckinley": {
+    "team_norm": "mckinley",
+    "tickers": [
+      "KXMTMCK-29"
+    ],
+    "examples": [
+      "Will Trump rename Denali back to Mt. McKinley?"
+    ]
+  },
+  "will trump impose martial law before his term": {
+    "team_norm": "will trump impose martial law before his term",
+    "tickers": [
+      "KXMARTIAL-29JAN20"
+    ],
+    "examples": [
+      "Will Trump impose martial law before his term ends?"
+    ]
+  },
+  "will trump be held liable for january 6th in any": {
+    "team_norm": "will trump be held liable for january 6th in any",
+    "tickers": [
+      "KXJAN6CASES"
+    ],
+    "examples": [
+      "Will Trump be held liable for January 6th in any court?"
+    ]
+  },
+  "court": {
+    "team_norm": "court",
+    "tickers": [
+      "KXJAN6CASES"
+    ],
+    "examples": [
+      "Will Trump be held liable for January 6th in any court?"
+    ]
+  },
+  "will trump invoke the insurrection": {
+    "team_norm": "will trump invoke the insurrection",
+    "tickers": [
+      "KXINSURRECTION-29"
+    ],
+    "examples": [
+      "Will Trump invoke the Insurrection Act?"
+    ]
+  },
+  "act": {
+    "team_norm": "act",
+    "tickers": [
+      "KXINSURRECTION-29"
+    ],
+    "examples": [
+      "Will Trump invoke the Insurrection Act?"
+    ]
+  },
+  "will the independence of the judiciary be weakened during trumps": {
+    "team_norm": "will the independence of the judiciary be weakened during trumps",
+    "tickers": [
+      "KXINDJUDICIARY-29"
+    ],
+    "examples": [
+      "Will the independence of the judiciary be weakened during Trump's term?"
+    ]
+  },
+  "will a cabinet member be": {
+    "team_norm": "will a cabinet member be",
+    "tickers": [
+      "KXIMPEACHCABINET"
+    ],
+    "examples": [
+      "Will a cabinet member be impeached?"
+    ]
+  },
+  "impeached": {
+    "team_norm": "impeached",
+    "tickers": [
+      "KXIMPEACHCABINET"
+    ],
+    "examples": [
+      "Will a cabinet member be impeached?"
+    ]
+  },
+  "will president trump be impeached during his": {
+    "team_norm": "will president trump be impeached during his",
+    "tickers": [
+      "KXIMPEACH-29"
+    ],
+    "examples": [
+      "Will President Trump be impeached during his term?"
+    ]
+  },
+  "will trump suspend habeas": {
+    "team_norm": "will trump suspend habeas",
+    "tickers": [
+      "KXHABEAS-29"
+    ],
+    "examples": [
+      "Will Trump suspend habeas corpus?"
+    ]
+  },
+  "corpus": {
+    "team_norm": "corpus",
+    "tickers": [
+      "KXHABEAS-29"
+    ],
+    "examples": [
+      "Will Trump suspend habeas corpus?"
+    ]
+  },
+  "will trump expand the h1b": {
+    "team_norm": "will trump expand the h1b",
+    "tickers": [
+      "KXH1B-29"
+    ],
+    "examples": [
+      "Will Trump expand the H1-B program?"
+    ]
+  },
+  "program": {
+    "team_norm": "program",
+    "tickers": [
+      "KXH1B-29"
+    ],
+    "examples": [
+      "Will Trump expand the H1-B program?"
+    ]
+  },
+  "will trump buy at least part of": {
+    "team_norm": "will trump buy at least part of",
+    "tickers": [
+      "KXGREENLAND-29"
+    ],
+    "examples": [
+      "Will Trump buy at least part of Greenland?"
+    ]
+  },
+  "will trump make a new free trade agreement with": {
+    "team_norm": "will trump make a new free trade agreement with",
+    "tickers": [
+      "KXFTAPRC-29"
+    ],
+    "examples": [
+      "Will Trump make a new free trade agreement with China?"
+    ]
+  },
+  "china": {
+    "team_norm": "china",
+    "tickers": [
+      "KXFTAPRC-29"
+    ],
+    "examples": [
+      "Will Trump make a new free trade agreement with China?"
+    ]
+  },
+  "will trump make a new free trade": {
+    "team_norm": "will trump make a new free trade",
+    "tickers": [
+      "KXFTA-29"
+    ],
+    "examples": [
+      "Will Trump make a new free trade agreement?"
+    ]
+  },
+  "agreement": {
+    "team_norm": "agreement",
+    "tickers": [
+      "KXFTA-29"
+    ],
+    "examples": [
+      "Will Trump make a new free trade agreement?"
+    ]
+  },
+  "will trump make ivf": {
+    "team_norm": "will trump make ivf",
+    "tickers": [
+      "KXFREEIVF-29"
+    ],
+    "examples": [
+      "Will Trump make IVF free?"
+    ]
+  },
+  "free": {
+    "team_norm": "free",
+    "tickers": [
+      "KXFREEIVF-29"
+    ],
+    "examples": [
+      "Will Trump make IVF free?"
+    ]
+  },
+  "will trump end the federal": {
+    "team_norm": "will trump end the federal",
+    "tickers": [
+      "KXFEDEND-29"
+    ],
+    "examples": [
+      "Will Trump end the Federal Reserve?"
+    ]
+  },
+  "reserve": {
+    "team_norm": "reserve",
+    "tickers": [
+      "KXFEDEND-29"
+    ],
+    "examples": [
+      "Will Trump end the Federal Reserve?"
+    ]
+  },
+  "who will trump nominate fed": {
+    "team_norm": "who will trump nominate fed",
+    "tickers": [
+      "KXFEDCHAIRNOM-29"
+    ],
+    "examples": [
+      "Who will Trump nominate as Fed Chair?"
+    ]
+  },
+  "chair": {
+    "team_norm": "chair",
+    "tickers": [
+      "KXFEDCHAIRNOM-29"
+    ],
+    "examples": [
+      "Who will Trump nominate as Fed Chair?"
+    ]
+  },
+  "will trump end the electric vehicle tax": {
+    "team_norm": "will trump end the electric vehicle tax",
+    "tickers": [
+      "KXEVCREDITS-29"
+    ],
+    "examples": [
+      "Will Trump end the electric vehicle tax credit?"
+    ]
+  },
+  "credit": {
+    "team_norm": "credit",
+    "tickers": [
+      "KXEVCREDITS-29"
+    ],
+    "examples": [
+      "Will Trump end the electric vehicle tax credit?"
+    ]
+  },
+  "will trump abolish the department of": {
+    "team_norm": "will trump abolish the department of",
+    "tickers": [
+      "KXDOED-29"
+    ],
+    "examples": [
+      "Will Trump abolish the Department of Education?"
+    ]
+  },
+  "education": {
+    "team_norm": "education",
+    "tickers": [
+      "KXDOED-29"
+    ],
+    "examples": [
+      "Will Trump abolish the Department of Education?"
+    ]
+  },
+  "will trump attend any white house correspondents": {
+    "team_norm": "will trump attend any white house correspondents",
+    "tickers": [
+      "KXDJTWHDINNER-29"
+    ],
+    "examples": [
+      "Will Trump attend any White House Correspondents Dinner?"
+    ]
+  },
+  "dinner": {
+    "team_norm": "dinner",
+    "tickers": [
+      "KXDJTWHDINNER-29"
+    ],
+    "examples": [
+      "Will Trump attend any White House Correspondents Dinner?"
+    ]
+  },
+  "will a new constitutional amendment be added during trumps": {
+    "team_norm": "will a new constitutional amendment be added during trumps",
+    "tickers": [
+      "KXCONSTAMEND-29"
+    ],
+    "examples": [
+      "Will a new Constitutional Amendment be added during Trump's term?"
+    ]
+  },
+  "will trump impose capital": {
+    "team_norm": "will trump impose capital",
+    "tickers": [
+      "KXCAPCONTROL-29"
+    ],
+    "examples": [
+      "Will Trump impose capital controls?"
+    ]
+  },
+  "controls": {
+    "team_norm": "controls",
+    "tickers": [
+      "KXCAPCONTROL-29"
+    ],
+    "examples": [
+      "Will Trump impose capital controls?"
+    ]
+  },
+  "will trump take back the panama": {
+    "team_norm": "will trump take back the panama",
+    "tickers": [
+      "KXCANAL-29"
+    ],
+    "examples": [
+      "Will Trump take back the Panama Canal?"
+    ]
+  },
+  "canal": {
+    "team_norm": "canal",
+    "tickers": [
+      "KXCANAL-29"
+    ],
+    "examples": [
+      "Will Trump take back the Panama Canal?"
+    ]
+  },
+  "who will be the first to leave the trump": {
+    "team_norm": "who will be the first to leave the trump",
+    "tickers": [
+      "KXCABOUT-29"
+    ],
+    "examples": [
+      "Who will be the first to leave the Trump Cabinet?"
+    ]
+  },
+  "cabinet": {
+    "team_norm": "cabinet",
+    "tickers": [
+      "KXCABOUT-29"
+    ],
+    "examples": [
+      "Who will be the first to leave the Trump Cabinet?"
+    ]
+  },
+  "will the 25th amendment be used during trumps": {
+    "team_norm": "will the 25th amendment be used during trumps",
+    "tickers": [
+      "KXAMEND25-29"
+    ],
+    "examples": [
+      "Will the 25th Amendment be used during Trump's Presidency?"
+    ]
+  },
+  "which agencies will trump": {
+    "team_norm": "which agencies will trump",
+    "tickers": [
+      "KXAGENCYELIM-29"
+    ],
+    "examples": [
+      "Which agencies will Trump eliminate?"
+    ]
+  },
+  "eliminate": {
+    "team_norm": "eliminate",
+    "tickers": [
+      "KXAGENCYELIM-29"
+    ],
+    "examples": [
+      "Which agencies will Trump eliminate?"
+    ]
+  },
+  "will obamacare be repealed before": {
+    "team_norm": "will obamacare be repealed before",
+    "tickers": [
+      "KXACAREPEAL-29"
+    ],
+    "examples": [
+      "Will Obamacare be repealed before 2029?"
+    ]
+  },
+  "2029": {
+    "team_norm": "2029",
+    "tickers": [
+      "KXACAREPEAL-29"
+    ],
+    "examples": [
+      "Will Obamacare be repealed before 2029?"
+    ]
+  },
+  "will israel and syria normalize relations during trumps": {
+    "team_norm": "will israel and syria normalize relations during trumps",
+    "tickers": [
+      "KXABRAHAMSY-29"
+    ],
+    "examples": [
+      "Will Israel and Syria normalize relations during Trump's term?"
+    ]
+  },
+  "will israel and saudi arabia normalize relations during trumps": {
+    "team_norm": "will israel and saudi arabia normalize relations during trumps",
+    "tickers": [
+      "KXABRAHAMSA-29"
+    ],
+    "examples": [
+      "Will Israel and Saudi Arabia normalize relations during Trump's term?"
+    ]
+  },
+  "will israel and qatar normalize relations during trumps": {
+    "team_norm": "will israel and qatar normalize relations during trumps",
+    "tickers": [
+      "KXABRAHAMQ-29"
+    ],
+    "examples": [
+      "Will Israel and Qatar normalize relations during Trump's term?"
+    ]
+  },
+  "mississippi": {
+    "team_norm": "mississippi",
+    "tickers": [
+      "GOVPARTYMS-28"
+    ],
+    "examples": [
+      "Who will win the governorship in Mississippi?"
+    ]
+  },
+  "who will win the governorship in west": {
+    "team_norm": "who will win the governorship in west",
+    "tickers": [
+      "GOVPARTYWV-28"
+    ],
+    "examples": [
+      "Who will win the governorship in West Virginia?"
+    ]
+  },
+  "virginia": {
+    "team_norm": "virginia",
+    "tickers": [
+      "GOVPARTYWV-28"
+    ],
+    "examples": [
+      "Who will win the governorship in West Virginia?"
+    ]
+  },
+  "missouri": {
+    "team_norm": "missouri",
+    "tickers": [
+      "GOVPARTYMO-28"
+    ],
+    "examples": [
+      "Who will win the governorship in Missouri?"
+    ]
+  },
+  "indiana": {
+    "team_norm": "indiana",
+    "tickers": [
+      "GOVPARTYIN-28",
+      "SENATEIN-28"
+    ],
+    "examples": [
+      "Who will win the 2028 Senate race in Indiana?",
+      "Who will win the governorship in Indiana?"
+    ]
+  },
+  "who will win the governorship in new": {
+    "team_norm": "who will win the governorship in new",
+    "tickers": [
+      "GOVPARTYNH-28"
+    ],
+    "examples": [
+      "Who will win the governorship in New Hampshire?"
+    ]
+  },
+  "hampshire": {
+    "team_norm": "hampshire",
+    "tickers": [
+      "GOVPARTYNH-28"
+    ],
+    "examples": [
+      "Who will win the governorship in New Hampshire?"
+    ]
+  },
+  "louisiana": {
+    "team_norm": "louisiana",
+    "tickers": [
+      "GOVPARTYLA-28"
+    ],
+    "examples": [
+      "Who will win the governorship in Louisiana?"
+    ]
+  },
+  "who will win the 2028 senate race in": {
+    "team_norm": "who will win the 2028 senate race in",
+    "tickers": [
+      "SENATEIN-28",
+      "SENATEUT-28",
+      "SENATEVT-28",
+      "SENATEWA-28",
+      "SENATEWI-28"
+    ],
+    "examples": [
+      "Who will win the 2028 Senate race in Indiana?",
+      "Who will win the 2028 Senate race in Utah?",
+      "Who will win the 2028 Senate race in Vermont?",
+      "Who will win the 2028 Senate race in Washington?",
+      "Who will win the 2028 Senate race in Wisconsin?"
+    ]
+  },
+  "vermont": {
+    "team_norm": "vermont",
+    "tickers": [
+      "GOVPARTYVT-28",
+      "SENATEVT-28"
+    ],
+    "examples": [
+      "Who will win the 2028 Senate race in Vermont?",
+      "Who will win the governorship in Vermont?"
+    ]
+  },
+  "wisconsin": {
+    "team_norm": "wisconsin",
+    "tickers": [
+      "SENATEWI-28"
+    ],
+    "examples": [
+      "Who will win the 2028 Senate race in Wisconsin?"
+    ]
+  },
+  "washington": {
+    "team_norm": "washington",
+    "tickers": [
+      "SENATEWA-28"
+    ],
+    "examples": [
+      "Who will win the 2028 Senate race in Washington?"
+    ]
+  },
+  "utah": {
+    "team_norm": "utah",
+    "tickers": [
+      "SENATEUT-28"
+    ],
+    "examples": [
+      "Who will win the 2028 Senate race in Utah?"
+    ]
+  },
+  "who will win the senate race in south": {
+    "team_norm": "who will win the senate race in south",
+    "tickers": [
+      "SENATESC-28",
+      "SENATESD-28"
+    ],
+    "examples": [
+      "Who will win the Senate race in South Carolina?",
+      "Who will win the Senate race in South Dakota?"
+    ]
+  },
+  "dakota": {
+    "team_norm": "dakota",
+    "tickers": [
+      "SENATESD-28"
+    ],
+    "examples": [
+      "Who will win the Senate race in South Dakota?"
+    ]
+  },
+  "carolina": {
+    "team_norm": "carolina",
+    "tickers": [
+      "SENATESC-28"
+    ],
+    "examples": [
+      "Who will win the Senate race in South Carolina?"
+    ]
+  }
+}
